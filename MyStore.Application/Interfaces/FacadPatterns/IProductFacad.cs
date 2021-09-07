@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 namespace Bugeto_Store.Application.Interfaces.FacadPatterns
 {
     public interface IProductFacad
-    {
+    {//hsdgdfjgsjdfsdfdf
         AddNewCategoryService AddNewCategoryService { get; }
         IGetCategoriesService GetCategoriesService { get; }
         IEditCategoryService EditCategoryService { get; }
