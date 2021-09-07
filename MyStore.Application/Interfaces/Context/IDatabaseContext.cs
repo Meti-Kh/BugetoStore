@@ -31,7 +31,7 @@ namespace MyStore.Application.Interfaces.Context
         DbSet<Order> Orders { get; set; }
         DbSet<OrderDetail> OrderDetails { get; set; }
 
-
+//mother
         int SaveChanges(bool acceptAllChangesOnSuccess);
          int SaveChanges();
          Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = new CancellationToken());
