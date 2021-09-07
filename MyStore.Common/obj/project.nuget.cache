@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrIEA0kmPx4uHev5TRTWL6F3nArNFTO+a840M4NGJYiNETJZjpLNdKz9yo5W+kO1LEFbq2uVBgho+qyqKYFOPA==",
+  "success": true,
+  "projectFilePath": "D:\\پروزه فروشگاهی باگتو\\MyStore\\MyStore.Common\\MyStore.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
+    "C:\\Users\\mahdi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.4\\microsoft.aspnetcore.cryptography.keyderivation.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
