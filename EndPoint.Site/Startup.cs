@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
-//23eqdfe2
+//23eqdfhttps://github.com/Meti-Kh/BugetoStore.githttps://github.com/Meti-Kh/BugetoStore.gite2
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MyStore.Persistence.Context;
