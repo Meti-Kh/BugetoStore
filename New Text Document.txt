@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 gdfgdfdfsdaaddasdas11212fsfsdfsd
 =======
@@ -10,3 +11,6 @@ ghj
 g
 hjghjghjn
  
+=======
+gdfgdfdfsdaaddasdas11212fsfsdfsd
+>>>>>>> Stashed changes
