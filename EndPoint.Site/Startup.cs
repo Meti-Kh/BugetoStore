@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Bugeto_Store.Application.Interfaces.FacadPatterns;
-using Bugeto_Store.Application.Services.Products.FacadPattern;
+using Bugeto_Store.Application.Services.Products.FacadPattern;c
 using Bugeto_Store.Application.Services.Users.Commands.EditUser;
 using Bugeto_Store.Application.Services.Users.Commands.RemoveUser;
 using Bugeto_Store.Application.Services.Users.Commands.UserLogin;
